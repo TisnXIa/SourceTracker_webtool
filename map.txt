@@ -1,0 +1,13 @@
+#SampleID	Env	SourceSink
+GZ_Bl_1	Bl	source
+GZ_Bl_2	Bl	source
+GZ_Bl_3	Bl	source
+SX_Bl_1	Bl	source
+SX_Bl_2	Bl	source
+SX_Bl_3	Bl	source
+GZ_Rs_1	Rs	sink
+GZ_Rs_2	Rs	sink
+GZ_Rs_3	Rs	sink
+SX_Rs_1	Rs	sink
+SX_Rs_2	Rs	sink
+SX_Rs_3	Rs	sink
